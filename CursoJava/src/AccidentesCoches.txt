@@ -1,0 +1,23 @@
+Los modelos son los siguientes: 
+El coche Audi de modelo A1 ha tenido 48 accidentes.
+El coche Audi de modelo A2 ha tenido 48 accidentes.
+El coche Audi de modelo A3 ha tenido 48 accidentes.
+El coche Audi de modelo A5 ha tenido 48 accidentes.
+El coche Audi de modelo A8 ha tenido 48 accidentes.
+El coche AlfaRomeo de modelo AA ha tenido 48 accidentes.
+El coche AlfaRomeo de modelo BB ha tenido 48 accidentes.
+El coche AlfaRomeo de modelo CC ha tenido 48 accidentes.
+El coche Ferrari de modelo Roja ha tenido 48 accidentes.
+El coche Ford de modelo Mustang ha tenido 48 accidentes.
+Su velocidad permitida es la siguiente: 
+El coche Audi de modelo A1 tiene  270 de velocidad maxima.
+El coche Audi de modelo A2 tiene  280 de velocidad maxima.
+El coche Audi de modelo A3 tiene  290 de velocidad maxima.
+El coche Audi de modelo A5 tiene  300 de velocidad maxima.
+El coche Audi de modelo A8 tiene  310 de velocidad maxima.
+El coche AlfaRomeo de modelo AA tiene  300 de velocidad maxima.
+El coche AlfaRomeo de modelo BB tiene  310 de velocidad maxima.
+El coche AlfaRomeo de modelo CC tiene  300 de velocidad maxima.
+El coche Ferrari de modelo Roja tiene  450 de velocidad maxima.
+El coche Ford de modelo Mustang tiene  330 de velocidad maxima.
+
